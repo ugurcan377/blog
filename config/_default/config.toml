@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "kumashock.fyi"
+baseurl = ""
 languageCode = "en-us"
 title = "Kumashock's personal blog"
 
